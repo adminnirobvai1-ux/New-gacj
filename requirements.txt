@@ -1,0 +1,34 @@
+# ============================================================
+# XHAWON v12.0-ENTERPRISE-READY - Requirements
+# ============================================================
+
+# Core Libraries
+python-telegram-bot>=20.0
+aiohttp>=3.9.0
+cryptography>=41.0.0
+reportlab>=4.0.0
+numpy>=1.24.0
+
+# Google Gemini AI
+google-genai>=0.1.0
+
+# Machine Learning (Optional but recommended)
+scikit-learn>=1.3.0
+scipy>=1.11.0
+
+# Deep Learning (Optional)
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Blockchain (Optional)
+web3>=6.0.0
+
+# Additional Utilities
+python-dotenv>=1.0.0
+pandas>=2.0.0
+matplotlib>=3.7.0
+
+# ============================================================
+# Installation Command:
+# pip install -r requirements.txt
+# ============================================================
